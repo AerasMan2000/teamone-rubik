@@ -1,0 +1,54 @@
+// In order from the order provided
+
+// rubiks-cube
+ 1. This image most likely belongs to rubiks-cube with a 99.85 percent confidence.
+ 2. This image most likely belongs to rubiks-cube with a 96.33 percent confidence.
+ 3. This image most likely belongs to rubiks-cube with a 99.73 percent confidence.
+ 4. This image most likely belongs to rubiks-cube with a 97.77 percent confidence.
+ 5. This image most likely belongs to rubiks-cube with a 97.09 percent confidence.
+ 6. This image most likely belongs to rubiks-cube with a 99.13 percent confidence.
+ 7. This image most likely belongs to rubiks-cube with a 95.19 percent confidence.
+ 8. This image most likely belongs to rubiks-cube with a 85.46 percent confidence.
+ 9. This image most likely belongs to rubiks-cube with a 99.37 percent confidence.
+10. This image most likely belongs to rubiks-cube with a 83.38 percent confidence.
+11. This image most likely belongs to rubiks-cube with a 99.76 percent confidence.
+12. This image most likely belongs to rubiks-cube with a 99.72 percent confidence.
+13. This image most likely belongs to rubiks-cube with a 99.76 percent confidence.
+14. This image most likely belongs to rubiks-cube with a 95.67 percent confidence.
+15. This image most likely belongs to rubiks-cube with a 97.78 percent confidence.
+16. This image most likely belongs to not-rubiks-cube with a 66.42 percent confidence.
+17. This image most likely belongs to rubiks-cube with a 99.40 percent confidence.
+18. This image most likely belongs to rubiks-cube with a 99.76 percent confidence.
+19. This image most likely belongs to rubiks-cube with a 92.08 percent confidence.
+20. This image most likely belongs to rubiks-cube with a 73.11 percent confidence.
+21. This image most likely belongs to rubiks-cube with a 84.96 percent confidence.
+22. This image most likely belongs to rubiks-cube with a 78.44 percent confidence.
+23. This image most likely belongs to rubiks-cube with a 69.91 percent confidence.
+24. This image most likely belongs to rubiks-cube with a 97.53 percent confidence.
+25. This image most likely belongs to rubiks-cube with a 98.01 percent confidence.
+
+// not-rubiks-cube
+ 1. This image most likely belongs to rubiks-cube with a 55.73 percent confidence.
+ 2. This image most likely belongs to rubiks-cube with a 67.30 percent confidence.
+ 3. This image most likely belongs to not-rubiks-cube with a 88.73 percent confidence.
+ 4. This image most likely belongs to rubiks-cube with a 67.27 percent confidence.
+ 5. This image most likely belongs to not-rubiks-cube with a 99.03 percent confidence.
+ 6. This image most likely belongs to not-rubiks-cube with a 97.38 percent confidence.
+ 7. This image most likely belongs to not-rubiks-cube with a 94.37 percent confidence.
+ 8. This image most likely belongs to not-rubiks-cube with a 97.23 percent confidence.
+ 9. This image most likely belongs to rubiks-cube with a 82.93 percent confidence.
+10. This image most likely belongs to not-rubiks-cube with a 65.67 percent confidence.
+11. This image most likely belongs to rubiks-cube with a 62.68 percent confidence.
+12. This image most likely belongs to not-rubiks-cube with a 93.75 percent confidence.
+13. This image most likely belongs to not-rubiks-cube with a 91.64 percent confidence.
+14. This image most likely belongs to not-rubiks-cube with a 74.94 percent confidence.
+15. This image most likely belongs to rubiks-cube with a 93.42 percent confidence.
+16. This image most likely belongs to not-rubiks-cube with a 90.69 percent confidence.
+17. This image most likely belongs to not-rubiks-cube with a 76.87 percent confidence.
+18. This image most likely belongs to not-rubiks-cube with a 71.40 percent confidence.
+19. This image most likely belongs to not-rubiks-cube with a 66.39 percent confidence.
+20. This image most likely belongs to not-rubiks-cube with a 89.09 percent confidence.
+21. This image most likely belongs to not-rubiks-cube with a 97.24 percent confidence.
+22. This image most likely belongs to not-rubiks-cube with a 96.02 percent confidence.
+23. This image most likely belongs to not-rubiks-cube with a 58.63 percent confidence.
+24. This image most likely belongs to rubiks-cube with a 75.78 percent confidence.
